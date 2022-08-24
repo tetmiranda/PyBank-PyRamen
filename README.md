@@ -37,3 +37,7 @@ Financial Analysis
 Final script should print the analysis to the terminal and export a text file with the results.
 
 File name: *financial_analysis.txt*
+
+## Git local copy
+![Screenshot](Image/gitbash_clone_mod2.JPG)
+
