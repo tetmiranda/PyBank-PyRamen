@@ -96,4 +96,5 @@ The following steps should be followed
    The report should output each ramen type as the keys and 01-count, 02-revenue, 03-cogs, and 04-profit metrics as the values for every ramen type as shown:
     
    Report.txt
+   
    ![Screenshot](Image/gitbash_report_mod2.JPG)
