@@ -1,0 +1,96 @@
+## PyRamen Report
+
+|Item|Count|Revenue|Cost|Profit|
+|---------------------------------------|
+|Spicy Miso Ramen|9238|110856.0|46190.0|64666.0|
+|Tori Paitan Ramen|9156|119028.0|54936.0|64092.0|
+|Truffle Butter Ramen|8982|125748.0|62874.0|62874.0|
+|Tonkotsu Ramen|9288|120744.0|55728.0|65016.0|
+|Vegetarian Spicy Miso|9216|110592.0|46080.0|64512.0|
+|Shio Ramen|9180|100980.0|45900.0|55080.0|
+|Miso Crab Ramen|8890|106680.0|53340.0|53340.0|
+|Nagomi Shoyu|9132|100452.0|45660.0|54792.0|
+|Soft-Shell Miso Crab Ramen|9130|127820.0|63910.0|63910.0|
+|Burnt Garlic Tonkotsu Ramen|9070|126980.0|54420.0|72560.0|
+|Vegetarian Curry + King Trumpet Mushroom Ramen|8824|114712.0|61768.0|52944.0|
+
+## -> Spicy Miso Ramen
+
+01 - Count: 9238
+02 - Revenue: 110856.0
+03 - Cost: 46190.0
+04 - Profit: 64666.0
+
+## -> Tori Paitan Ramen
+
+01 - Count: 9156
+02 - Revenue: 119028.0
+03 - Cost: 54936.0
+04 - Profit: 64092.0
+
+## -> Truffle Butter Ramen
+
+01 - Count: 8982
+02 - Revenue: 125748.0
+03 - Cost: 62874.0
+04 - Profit: 62874.0
+
+## -> Tonkotsu Ramen
+
+01 - Count: 9288
+02 - Revenue: 120744.0
+03 - Cost: 55728.0
+04 - Profit: 65016.0
+
+## -> Vegetarian Spicy Miso
+
+01 - Count: 9216
+02 - Revenue: 110592.0
+03 - Cost: 46080.0
+04 - Profit: 64512.0
+
+## -> Shio Ramen
+
+01 - Count: 9180
+02 - Revenue: 100980.0
+03 - Cost: 45900.0
+04 - Profit: 55080.0
+
+## -> Miso Crab Ramen
+
+01 - Count: 8890
+02 - Revenue: 106680.0
+03 - Cost: 53340.0
+04 - Profit: 53340.0
+
+## -> Nagomi Shoyu
+
+01 - Count: 9132
+02 - Revenue: 100452.0
+03 - Cost: 45660.0
+04 - Profit: 54792.0
+
+## -> Soft-Shell Miso Crab Ramen
+
+01 - Count: 9130
+02 - Revenue: 127820.0
+03 - Cost: 63910.0
+04 - Profit: 63910.0
+
+## -> Burnt Garlic Tonkotsu Ramen
+
+01 - Count: 9070
+02 - Revenue: 126980.0
+03 - Cost: 54420.0
+04 - Profit: 72560.0
+
+## -> Vegetarian Curry + King Trumpet Mushroom Ramen
+
+01 - Count: 8824
+02 - Revenue: 114712.0
+03 - Cost: 61768.0
+04 - Profit: 52944.0
+
+----------------------------------------
+  Total Number of Sales Records: 74125
+----------------------------------------
